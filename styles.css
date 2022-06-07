@@ -1,38 +1,38 @@
 body {
     font-family: arial, sans-serif;
-   background-image: url("https://images.rawpixel.com/image_500/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNTUta3dhbi0zNy1jLmpwZw.jpg");
+   background-image: url("https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yNy10b25nLTA2LXdvb2QuanBn.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
   }
   h1 {
-    color: #ffffff;
-    font-size: 24px;
-    font-weight: 100;
+    color: rgb(253, 125, 5) ;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',  Georgia, sans-serif;
+    font-size: 53px;
+    font-weight: 900;
     line-height: 28px;
     margin: 0;
   }
   
   
   li {
-    color: #ffffff;;
+    color: #f3aa0e;;
     font-size: 16px;
-    font-weight: bolder;
+    font-weight: 400;
     height: 19px;
     line-height: 1;
     list-style: none;
   }
   
   .weather-app {
-    border: 1px solid #dadde1;
+    border: 3px solid   rgb(70, 37, 255);
     padding: 15px;
     margin: 20px auto;
     border-radius: 10px;
-    max-width: 600px;
-    background: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    max-width: 700px;
   }
-  
+
   .weather-icon {
     height: 64px;
     width: 64px;
@@ -40,8 +40,8 @@ body {
   }
   
   .temperature {
-    color: rgb(255, 255, 255);
-    font-size: 64px;
+    color: rgb(253, 125, 5);
+    font-size: 55px;
     font-weight: 400;
     line-height: 1;
   }
